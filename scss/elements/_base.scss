@@ -1,0 +1,17 @@
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+.site__container {
+  max-width: $mw;
+  background: $bg-color;
+  margin: 40px auto;
+}
+
